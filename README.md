@@ -15,7 +15,7 @@ Collaborated with 3 fellow Software Engineering Students to build a prototype th
 <p> Motion Sensors, Arduino, Raspberry Pi, Pi Camera </p>
 
 <h1> Challenges </h1>
-<p> </p>
+<p> The group was not able to get all the parts on time to be able to finish this project completely. </p>
 
 <h1> Accomplishments </h1>
 <p> </p>
