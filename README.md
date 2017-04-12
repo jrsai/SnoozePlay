@@ -6,7 +6,7 @@ Collaborated with 3 fellow Software Engineering Students to build a prototype th
 <p> The SpotiPi is an automated home entertainment system that is also equipped with an advanced security system.  </p>
 
 <h1> What is does </h1>
-<p> Using laser tripwires, the system keeps track of the number of people in the room and also plays music depending on where the user is in the house. By the click of a button, the user can switch it to security mode where the Pi Camera works along with the laser tripwires to detect any motion and capture a picture. </p>
+<p> Using laser tripwires, the system keeps track of the number of people in the room and also plays music depending on where the user is in the house. By the click of a button, the user can switch it to security mode where the Pi Camera works along with the laser tripwires to detect any motion and capture a <a href="https://github.com/jrsai/SnoozePlay/blob/master/images/intruder1.jpg">  picture. </a> </p>
 
 <h1> How it was built </h1>
 <p> 
